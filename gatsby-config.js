@@ -7,7 +7,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby JS Tutorial',
-    author: 'Hossu Raul Gabriel'
+    author: 'Hossu Raul Gabriel',
+    site: 'https://hopeful-mclean-874d82.netlify.app'
   },
   plugins: [
     'gatsby-plugin-sass',
